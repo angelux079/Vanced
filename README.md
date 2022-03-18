@@ -28,8 +28,8 @@ Latest Versions Vanced Mirror `2022/03/18`
 
 ## Recommended Mirrors
 
-https://github.com/angelux079/Vanced/raw/main/api/v1/
-https://vanced.etechsystems.org/api/v1/
+https://github.com/angelux079/Vanced/raw/main/api/v1/  
+https://vanced.etechsystems.org/api/v1/  
 https://mirror.codebucket.de/vanced/api/v1/
 
 ## How to manually install Vanced
